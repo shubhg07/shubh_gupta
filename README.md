@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shubhg07/SHUBH_DSA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/shubhg07/SHUBH_DSA/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shubhg07/SHUBH_DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhg07/SHUBH_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubhg07/SHUBH_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shubhg07/SHUBH_DSA/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/shubhg07/SHUBH_DSA/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhg07/SHUBH_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shubhg07/SHUBH_DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shubhg07/SHUBH_DSA/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/shubhg07/SHUBH_DSA/tree/master/0216-combination-sum-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubhg07/SHUBH_DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
