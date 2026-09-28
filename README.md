@@ -121,4 +121,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/shubhg07/SHUBH_DSA/tree/master/0992-subarrays-with-k-different-integers) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shubhg07/SHUBH_DSA/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shubhg07/SHUBH_DSA/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shubhg07/SHUBH_DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shubhg07/SHUBH_DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
